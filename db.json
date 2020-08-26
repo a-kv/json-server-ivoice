@@ -1,105 +1,105 @@
 {
   "buyers": [
     {
-      "id": "0",
+      "id": 0,
       "buyerName": "Anna",
       "averageCheck": 3,
       "numberOfPurchases": 10,
       "totalRevenues": 30
     },
     {
-      "id": "1",
+      "id": 1,
       "buyerName": "Anna",
       "averageCheck": 3333,
       "numberOfPurchases": 10,
       "totalRevenues": 33330
     },
     {
-      "id": "2",
+      "id": 2,
       "buyerName": "Oleg",
       "averageCheck": 1111,
       "numberOfPurchases": 100,
       "totalRevenues": 111100
     },
     {
-      "id": "3",
+      "id": 3,
       "buyerName": "Jo",
       "averageCheck": 10,
       "numberOfPurchases": 1000000,
       "totalRevenues": 10000000
     },
     {
-      "id": "4",
+      "id": 4,
       "buyerName": "Anna",
       "averageCheck": 10,
       "numberOfPurchases": 10,
       "totalRevenues": 100
     },
     {
-      "id": "5",
+      "id": 5,
       "buyerName": "Boris",
       "averageCheck": 2222,
       "numberOfPurchases": 14,
       "totalRevenues": 31108
     },
     {
-      "id": "6",
+      "id": 6,
       "buyerName": "Gendelf",
       "averageCheck": 22,
       "numberOfPurchases": 10,
       "totalRevenues": 220
     },
     {
-      "id": "7",
+      "id": 7,
       "buyerName": "Viola",
       "averageCheck": 33,
       "numberOfPurchases": 10,
       "totalRevenues": 330
     },
     {
-      "id": "8",
+      "id": 8,
       "buyerName": "Olga",
       "averageCheck": 111,
       "numberOfPurchases": 10,
       "totalRevenues": 1110
     },
     {
-      "id": "9",
+      "id": 9,
       "buyerName": "Polina",
       "averageCheck": 6352,
       "numberOfPurchases": 6,
       "totalRevenues": 38112
     },
     {
-      "id": "10",
+      "id": 10,
       "buyerName": "Abramovich",
       "averageCheck": 33333,
       "numberOfPurchases": 10,
       "totalRevenues": 333330
     },
     {
-      "id": "11",
+      "id": 11,
       "buyerName": "Sreda",
       "averageCheck": 33,
       "numberOfPurchases": 100,
       "totalRevenues": 3300
     },
     {
-      "id": "12",
+      "id": 12,
       "buyerName": "Alan",
       "averageCheck": 11100,
       "numberOfPurchases": 86,
       "totalRevenues": 954600
     },
     {
-      "id": "13",
+      "id": 13,
       "buyerName": "Gendelf",
       "averageCheck": 8888,
       "numberOfPurchases": 8,
       "totalRevenues": 71104
     },
     {
-      "id": "14",
+      "id": 14,
       "buyerName": "Boris",
       "averageCheck": 2312,
       "numberOfPurchases": 5,
